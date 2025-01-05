@@ -1,2 +1,2 @@
-# curso-js-rafa-ballerini
+# Curso de JavaScript by Rafa Ballerini
  Curso de JavaScript
